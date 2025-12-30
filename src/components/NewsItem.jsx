@@ -1,9 +1,13 @@
-const NewsItem = () => {
+const NewsBoard = () => {
+  
   return (
     <div>
-      <h2 className="text-center">latest <span className="">News</span></h2>
+      <h2 className="text-center">
+        latest <span className="badge bg-denger">News</span>
+      </h2>
+      <NewsItem />
     </div>
   );
 };
 
-export default NewsItem;
+export default NewsBoard;
