@@ -1,9 +1,10 @@
 
-const NewsItem => {
+const NewsBord = () => {
     return (
         <div>
+
         </div>
     )
 }
 
-export default NewsItem;
+export default NewsBord
