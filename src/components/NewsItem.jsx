@@ -1,7 +1,8 @@
 
-const NewsItem => {
+const NewsItem = () => {
     return (
         <div>
+
         </div>
     )
 }
